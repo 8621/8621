@@ -1,16 +1,25 @@
-## Hi there 👋
+# 一个编程小白的 AI 学习记录
 
-<!--
-**8621/8621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*从三分钟热度，到和 ChatGPT 一起折腾、踩坑、成长。*
 
-Here are some ideas to get you started:
+### 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+曾经是个对编程几乎一窍不通的小白，也尝试学过一点 Python 和 JavaScript，但经常卡在环境配置和代码调试上。三分钟热度，折腾一阵，最后不了了之。
+
+直到遇见 ChatGPT，我才慢慢重新拾起那些曾经放弃的项目。从什么都不懂，到一点点摸索、尝试，慢慢找回了学习的乐趣和信心。
+
+当然，AI 也不是万能的。有时候聪明得让人惊喜，有时候又笨得让人抓狂。明明计划两三天完成的项目，硬是被它带偏，折腾一个星期还在修之前的 Bug，没少让我生气。
+
+但也正因为这样，我慢慢明白了：**AI 可以帮助我们学习，却不能代替我们思考。和 AI 合作，既要有耐心，也要学会判断、纠错和坚持。**
+
+感谢 ChatGPT，让我重新找回了动手的勇气。当然，也希望它以后少给我挖点坑。
+
+这里记录我和 AI 一起学习、折腾、踩坑与成长的过程。
+
+**慢慢学，慢慢做，少走弯路，继续折腾。**
+
+### 项目记录
+
+- [Termius Android 简体中文汉化研究](https://github.com/8621/termius-android-zh-cn) — 非官方汉化方法、AI 操作指南和实机测试记录。
+
+更多学习项目会在整理好、完成隐私与版权检查后逐步公开。
